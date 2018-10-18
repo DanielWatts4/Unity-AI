@@ -1,1 +1,2 @@
 # Unity AI
+A few scripts I created to create a 2D environment of two completely different behaviours of AI. Patrol point AI which moves an NPC from one point to the next, looping until any other perametre is met (player within certain distance). And pathfinding AI which uses A* methods to calculate the shortest possible distance from the NPC and the player to calculate the most efficient way of reaching them, while taking into account obstructions using a node system. 
